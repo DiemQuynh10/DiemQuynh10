@@ -1,16 +1,46 @@
-## Hi there 👋
+# Đinh Thị Diễm Quỳnh
 
-<!--
-**DiemQuynh10/DiemQuynh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Information Technology Graduate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning JavaScript, ASP.NET Core MVC, SQL Server, and Git.
+
+Interested in Web Development and Software Engineering.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- C#
+- ASP.NET Core MVC
+- SQL Server
+
+## Projects
+
+### Recruitment Management System
+
+Recruitment management website developed using ASP.NET Core MVC and SQL Server.
+
+Main features:
+
+- Candidate Management
+- Interview Scheduling
+- Dashboard and Statistics
+- Authentication and Authorization
+
+### Motorcycle Sales Website
+
+Motorcycle sales website integrated with an AI chatbot.
+
+### E-Commerce Website
+
+E-commerce website developed using ASP.NET Core MVC.
+
+## Contact
+
+Email: diemquynhdinh1010@gmail.com
+
+Location: Tuyen Quang, Vietnam
